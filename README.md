@@ -10,7 +10,7 @@ _______________________________________________________________________
 1. Add new items into inventory.
 2. User can make purchase.
 3. Generate Billing Amount.
-4. Store daily transaction reords.
+4. Store daily transaction records.
 _______________________________________________________________________
 
 ### Who am I?
