@@ -3,7 +3,7 @@ This repository is having all the codes used in AI/ML Skill India Scholarship As
 _______________________________________________________________________
 
 ### About the Repository?
-You'll learn JSOn, NoSQL databases,File handling.
+You'll learn JSON, NoSQL databases,File handling.
 _______________________________________________________________________
 
 ### Features
